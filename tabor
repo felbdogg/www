@@ -1,0 +1,411 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 10,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.65991687774657,
+            42.95025042202678
+          ],
+          [
+            -97.65897274017334,
+            42.950258274950635
+          ],
+          [
+            -97.65897274017334,
+            42.95009336333925
+          ],
+          [
+            -97.65703082084656,
+            42.95008551039435
+          ],
+          [
+            -97.65706300735474,
+            42.94672435799537
+          ],
+          [
+            -97.66064643859863,
+            42.94677147822266
+          ],
+          [
+            -97.66086101531982,
+            42.94685786521239
+          ],
+          [
+            -97.6608395576477,
+            42.94849919498268
+          ],
+          [
+            -97.66178369522095,
+            42.94849919498268
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4400ff",
+        "marker-size": "medium",
+        "marker-symbol": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65883326530457,
+          42.950022686799116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4400ff",
+        "marker-size": "medium",
+        "marker-symbol": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65881180763245,
+          42.94843636976831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4400ff",
+        "marker-size": "medium",
+        "marker-symbol": "toilets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65883326530457,
+          42.946677237731976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#107a22",
+        "marker-size": "medium",
+        "marker-symbol": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65970230102539,
+          42.94946512458143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#107a22",
+        "marker-size": "medium",
+        "marker-symbol": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65933752059937,
+          42.94648875631777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#107a22",
+        "marker-size": "medium",
+        "marker-symbol": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65752971172333,
+          42.94668509111172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#107a22",
+        "marker-size": "medium",
+        "marker-symbol": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65896201133728,
+          42.95055275887192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#107a22",
+        "marker-size": "medium",
+        "marker-symbol": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65658020973206,
+          42.94849526840864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#107a22",
+        "marker-size": "medium",
+        "marker-symbol": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6604801416397,
+          42.94665760427825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ba7636",
+        "stroke-width": 6,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.65897274017334,
+            42.94984992158156
+          ],
+          [
+            -97.65895128250122,
+            42.94718770533072
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "fast-food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65877828001976,
+          42.949042041429756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#25b1a7",
+        "marker-size": "medium",
+        "marker-symbol": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65913166105747,
+          42.94950782538764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "fast-food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65872865915297,
+          42.94975764905081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "fast-food"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65926778316498,
+          42.947782591075715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#b42d2d",
+        "marker-size": "medium",
+        "marker-symbol": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65866965055466,
+          42.94817917837843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#107a22",
+        "marker-size": "medium",
+        "marker-symbol": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65785425901413,
+          42.948887924570684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "large",
+        "marker-symbol": "alcohol-shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.66122043132782,
+          42.94697566545753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#16922f",
+        "marker-size": "medium",
+        "marker-symbol": "campsite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65442371368408,
+          42.945173297045486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3200bd",
+        "marker-size": "medium",
+        "marker-symbol": "baseball"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65310943126678,
+          42.95167963766556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#107a22",
+        "marker-size": "medium",
+        "marker-symbol": "parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65705227851868,
+          42.95058024396603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65842288732529,
+          42.948774054541566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000fdb",
+        "marker-size": "medium",
+        "marker-symbol": "beer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6586964726448,
+          42.948902649128016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#b431b0",
+        "stroke-width": 4,
+        "stroke-opacity": 1
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -97.65865355730057,
+            42.94849526840864
+          ],
+          [
+            -97.65745729207991,
+            42.94849428676512
+          ]
+        ]
+      }
+    }
+  ]
+}
